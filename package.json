@@ -1,0 +1,22 @@
+{
+    "name": "nightcallblue",
+    "displayName": "NightcallBlue",
+    "description": "Dark blue theme",
+    "version": "0.0.1",
+    "author": "Faris Mujakić",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nightcall Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nightcall Blue-color-theme.json"
+            }
+        ]
+    }
+}
